@@ -1,0 +1,319 @@
+.clearfix{overflow: auto;}
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: absolute;
+  padding-right: 5px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+ 
+}
+
+	.contactUs{
+		
+		height: 60px;
+		background-color: #8080ff;
+
+	}
+	.contactUs h1{
+		margin-top:20px; 
+		margin-right: 20px;
+		margin-left: 20px;
+		font-size: 16px;
+		color: #1a1aff;
+	}
+	.cus{float: left;}
+	
+	
+
+	
+	
+
+	.fb{
+		float: left;
+	}
+	.fbp{
+		float: left;
+	}
+	.fbp img{
+		padding-right: 15px;
+		margin-right: 1px;
+		border-right:1px solid white;
+		margin-top: 12px;
+		width: 30px;
+		height: 30px;
+	}
+
+	.newsletter{
+		float: left;
+	}
+	.newsletterp{
+		float: left;
+	}
+	.newsletterp img{
+		padding-right: 15px;
+		margin-right: 1px;
+		border-right:1px solid white;
+		margin-top: 12px;
+		width: 40px;
+		height: 40px;
+	}
+
+	.Embed{
+		float: left;
+	}
+	.Embedp{
+		float: left;
+	}
+	.Embedp img{
+
+		margin-top: 12px;
+		width: 30px;
+		height: 30px;
+	}
+
+	.account{
+		float: right;
+	}
+	.accountp{
+		float: right;
+	}
+	.accountp img{
+		border-radius: 50px;
+		margin-top: 12px;
+		width: 30px;
+		height: 30px;
+	}
+
+	.logo{
+		margin-top: 10px;
+		border:5px solid white;
+	}
+	.logo-one{
+		float: left;
+	}
+
+	.logo-two{
+		float: right;
+	}
+	.logo-two h1{
+		margin-top: 110px;
+		margin-right: 300px;
+		font-size: 70px;
+		color: white;
+	}
+	
+
+	.logo-one img{
+		margin-bottom: 30px;
+		margin-top: 40px;
+		margin-left: 50px;
+		border-radius: 150px;
+		border:3px solid blue;
+	}
+	
+	.tr-part h1{
+		color: white;
+		font-family:arial;
+		font-size: 50px;
+		margin-top: 100px;
+		margin-bottom: 0px;
+	}
+	.tr-part h3{
+		margin-top: 0px;
+		margin-left: 230px;
+		color: #1a1aff;
+		font-family:arial;
+		font-size: 20px;
+	}
+	.tr-part{
+		height: 300px;
+		
+		
+	}
+	.navi-topic h1{
+		color: white;
+	}
+	.nav a{
+		color: white;
+	}
+	.nav li:hover{
+		color: red;
+		background-color: black;
+	}
+	.nav ul li{
+		
+		padding-top: 50px;
+		font-size: 35px;
+		border:2px solid white;
+		list-style: none;
+		display: inline-block;
+		width:208px;
+		height:100px;
+	}
+	
+	.oone p{
+		margin:90px; 
+		font-size: 30px;
+		color: white;
+	}
+	.oone h3{
+		margin-top: -50px;
+		margin-left: 900px; 
+		font-size: 20px;
+		color: white;
+		margin-bottom: -50px;
+	}
+	.osec{
+		color: white;
+	}
+	.osec h1{
+		font-size: 50px;
+		font-family: cursive;
+	}
+	.osec p{
+		margin-left: 90px;
+		margin-right: 90px;
+		font-size: 30px;
+		font-family: Monaco;
+	}
+	.osec h6{
+		margin-left: 90px;
+		margin-right: 90px;
+		font-size: 20px;
+		font-family: Monaco;
+	}
+	.osec center{
+		margin: 20px;
+		border:2px solid white;
+	}
+	.otr h3{
+		color: white;
+		font-family: cursive;
+		font-size: 40px;
+	}
+	.otr p{
+		margin-left:90px; 
+		margin-right:90px;
+		color: white;
+		font-family: Monaco;
+		font-size: 20px;
+	}
+	.otr center {
+		margin: 20px;
+		border:2px solid white;
+	}
+
+	.ofor-one{margin-left: 50px;
+
+		
+		float: left;
+	}
+	.ofor-two{margin-right: 50px; 
+		border-left: 2px solid white;
+		float: right;
+	}
+	.ofor-one ul{
+		list-style: none;
+
+	}
+	
+	.ofor-one ul li{
+		margin-bottom: 5px;
+		color:white;
+		font-size: 20px;
+		font-family: Arial;
+	}
+	.ofor-one h3{
+		font-family: Impact;
+		color: white;
+		font-size: 40px;
+		margin-left: 40px;
+	}
+	
+	.ofor-two img{
+		margin-left: 10px;
+		margin-top: 50px;
+		width: 230px;
+		height: 200px;
+	}
+.ofor-two p{
+	color: white;
+		margin-left: 10px;
+		margin-top: 50px;
+		font-size: 20px;
+		width: 700px;
+		
+	}
+	.ofive-one{
+		width: 410px;
+		height: 300px;
+		margin-top: 20px;
+		border-right: 2px solid white;
+		margin-left: 70px;
+		float: left;
+	}
+	.ofive-two{
+		width: 410px;
+		height: 300px;
+		margin-top: 20px;
+		border-right: 2px solid white;
+		float: left;
+	}
+	.ofive-tr{
+		width: 410px;
+		height: 300px;
+		margin-top: 20px;
+		float: left;
+	}
+	.ofive-one h2{
+		
+		color:white;
+	}
+	.ofive-one img{
+		
+		border:2px solid white;
+		width: 60px;
+		height: 60px;
+	}
+	.ofive-one a{
+		font-family: Courier;
+		font-size: 20px;
+		color: white;
+	}
+	.ofive-one h2{
+		font-family: cursive;
+		font-size: 30px;
+		color: white;
+	}
+	.ofive-two img{
+		width: 130px;
+		height: 130px;
+		margin-top: 50px;
+		border-radius: 70px;
+
+	}
+	.ofive-two h1{
+		margin-bottom: -10px;
+		font-size: 30px;
+		color: white;
+	}
+	.ofive-tr h2{
+		color: white;
+	}
+	.ofive-tr ul li{
+		font-size: 20px;
+		margin-bottom: 5px;
+		color: white;
+	}
+	.ofive-tr ul {
+		list-style: none;
+	}
